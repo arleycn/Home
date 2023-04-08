@@ -8,11 +8,15 @@
       <!-- 以下信息请不要修改哦 -->
       <span class="hidden"
         >&nbsp;&amp;&nbsp;Made&nbsp;by&nbsp;<a
-          :href="https://github.com/imsyy/home"
+          :href="config.github"
           target="_blank"
         >
-          imsyy
+          {{ config.author }}
         </a></span
+      >&nbsp;&amp;
+      <!-- 站点备案 -->
+      <a href="https://arley.cn" target="_blank"
+        >冀ICP备2021122122号</a
       >
     </div>
     <div class="lrc" v-show="store.playerState">
