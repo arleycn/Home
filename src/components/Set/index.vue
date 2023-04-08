@@ -1,7 +1,7 @@
 <template>
   <div class="setting">
     <el-collapse class="collapse" v-model="activeName" accordion>
-      <el-collapse-item title="壁纸设置" name="3">
+      <el-collapse-item title="壁纸设置" name="1">
         <div class="bg-set">
           <el-radio-group v-model="bgSet" text-color="#ffffff">
             <el-radio label="0" size="large" border>默认壁纸</el-radio>
