@@ -99,15 +99,9 @@ onMounted(() => {
   let styleTitle1 = "font-size: 20px;font-weight: 600;color: rgb(244,167,89);";
   let styleTitle2 = "font-size:12px;color: rgb(244,167,89);";
   let styleContent = "color: rgb(30,152,255);";
-  let title1 = "無名の主页";
-  let title2 = `
- _____ __  __  _______     ____     __
-|_   _|  \\/  |/ ____\\ \\   / /\\ \\   / /
-  | | | \\  / | (___  \\ \\_/ /  \\ \\_/ / 
-  | | | |\\/| |\\___ \\  \\   /    \\   /  
- _| |_| |  | |____) |  | |      | |   
-|_____|_|  |_|_____/   |_|      |_|`;
-  let content = `\n\n版本: ${config.version}\n主页: ${config.home}\nGithub: ${config.github}`;
+  let title1 = "ARLEY'S HOME";
+  let title2 = `喜欢本站主题请点击下方链接，记得Star~`;
+  let content = `\n\n版本: ${config.version}\n作者主页: ${config.home}\nGithub: ${config.github}`;
   console.info(
     `%c${title1} %c${title2} %c${content}`,
     styleTitle1,
