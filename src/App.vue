@@ -108,7 +108,7 @@ onMounted(() => {
   const styleTitle2 = "font-size:12px;color: rgb(244,167,89);";
   const styleContent = "color: rgb(30,152,255);";
   const title1 = "ARLEY'S HOME";
-  const title2 = `喜欢本站主题请点击下方链接，记得Star~`;
+  const title2 = `喜欢本站主题请点击下方链接，记得Star~
  _____ __  __  _______     ____     __
 |_   _|  \\/  |/ ____\\ \\   / /\\ \\   / /
   | | | \\  / | (___  \\ \\_/ /  \\ \\_/ /
