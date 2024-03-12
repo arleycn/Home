@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "Blog",
+    "name": "博客",
+    "link": "https://blog.arley.cn/"
+  },
+  {
+    "icon": "Cloud",
+    "name": "网盘",
+    "link": "https://pan.arley.cn/"
+  },
+  {
+    "icon": "Book",
+    "name": "网址集",
+    "link": "https://bm.arley.cn/"
+  }
+]
